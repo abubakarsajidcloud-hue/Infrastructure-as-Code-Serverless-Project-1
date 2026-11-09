@@ -1,0 +1,1 @@
+--  Compress-Archive -Path handler.py, utils.py -DestinationPath function.zip -Force
